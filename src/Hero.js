@@ -8,8 +8,8 @@ export default class Hero extends React.Component {
 				<div className="row h-100">
 					<div className="col-12 col-md-6 align-self-center">
 						<div className="my-auto h-100 text-center text-white px-5">
-							<h1 className="font-weight-bold" >The Best Tool for Typists</h1>
-							<h3>ProKeys is a text expander that helps you focus on your content, not on the actual content.</h3>
+							<h1 className="heading-font display-3" >the best tool for typists</h1>
+							<p className="lead">ProKeys is a text expander that helps you focus on your content, not on the actual content.</p>
 						</div>
 					</div>
 					<div className="col-12 col-md-6 align-self-center">
