@@ -20,7 +20,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://prokeys.github.io/",
+  "homepage": "https://prokeys.github.io/build/",
   "browserslist": {
     "production": [
       ">0.2%",
